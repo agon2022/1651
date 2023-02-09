@@ -1,0 +1,15 @@
+D:\1651\Project_1651\Farm1\bin\Debug\net6.0\Farm1.exe
+D:\1651\Project_1651\Farm1\bin\Debug\net6.0\Farm1.deps.json
+D:\1651\Project_1651\Farm1\bin\Debug\net6.0\Farm1.runtimeconfig.json
+D:\1651\Project_1651\Farm1\bin\Debug\net6.0\Farm1.dll
+D:\1651\Project_1651\Farm1\bin\Debug\net6.0\Farm1.pdb
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.csproj.AssemblyReference.cache
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.AssemblyInfoInputs.cache
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.AssemblyInfo.cs
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.csproj.CoreCompileInputs.cache
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.dll
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\refint\Farm1.dll
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.pdb
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\Farm1.genruntimeconfig.cache
+D:\1651\Project_1651\Farm1\obj\Debug\net6.0\ref\Farm1.dll
