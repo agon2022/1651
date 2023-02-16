@@ -1,0 +1,15 @@
+D:\1651\DemoLabDesignPattern\App1\bin\Debug\net6.0\App1.exe
+D:\1651\DemoLabDesignPattern\App1\bin\Debug\net6.0\App1.deps.json
+D:\1651\DemoLabDesignPattern\App1\bin\Debug\net6.0\App1.runtimeconfig.json
+D:\1651\DemoLabDesignPattern\App1\bin\Debug\net6.0\App1.dll
+D:\1651\DemoLabDesignPattern\App1\bin\Debug\net6.0\App1.pdb
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.csproj.AssemblyReference.cache
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.AssemblyInfoInputs.cache
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.AssemblyInfo.cs
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.csproj.CoreCompileInputs.cache
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.dll
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\refint\App1.dll
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.pdb
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\App1.genruntimeconfig.cache
+D:\1651\DemoLabDesignPattern\App1\obj\Debug\net6.0\ref\App1.dll
